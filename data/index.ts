@@ -73,7 +73,7 @@ export const navItems = [
     {
       id: 1,
       title: "RL Car Dealer - Management System",
-      des: "Designed for effortless appointment bookings, car services, and seamless trade-ins—all integrated for optimal user convenience.",
+      des: "Designed for effortless Bookings, Car Services, and seamless Trade-ins—all integrated for optimal user convenience.",
       img: "/p1.png",
       iconLists: ["/laravel.svg", "/hostinger.svg", "/jquery.svg", "/json.svg", "/php.svg"],
       linkDesc: "Check Live Site",
@@ -82,7 +82,7 @@ export const navItems = [
     {
       id: 2,
       title: "Life Care - Management System",
-      des: "'Simplifies your life with easy appointment booking, seamless schedule management, and quick access to vital services.",
+      des: "offers patients seamless Appointment, Secure Medical Record Management, and easy access to healthcare services.",
       img: "/p2.png",
       iconLists: ["/laravel.svg", "/laragon.svg", "/jquery.svg", "/json.svg", "/php.svg"],
       linkDesc: "Check Project Site",
