@@ -82,7 +82,7 @@ export const navItems = [
     {
       id: 2,
       title: "Life Care - Management System",
-      des: "offers patients seamless Appointment, Secure Medical Record Management, and easy access to healthcare services.",
+      des: "Offers patients seamless Appointment, Secure Medical Record Management, and easy access to healthcare services.",
       img: "/p2.png",
       iconLists: ["/laravel.svg", "/laragon.svg", "/jquery.svg", "/json.svg", "/php.svg"],
       linkDesc: "Check Project Site",
